@@ -1,0 +1,7 @@
+E:\UTE\HocKy6\LTC#\BT2\BT2\bin\Debug\BT2.exe.config
+E:\UTE\HocKy6\LTC#\BT2\BT2\bin\Debug\BT2.exe
+E:\UTE\HocKy6\LTC#\BT2\BT2\bin\Debug\BT2.pdb
+E:\UTE\HocKy6\LTC#\BT2\BT2\obj\Debug\BT2.csproj.AssemblyReference.cache
+E:\UTE\HocKy6\LTC#\BT2\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+E:\UTE\HocKy6\LTC#\BT2\BT2\obj\Debug\BT2.exe
+E:\UTE\HocKy6\LTC#\BT2\BT2\obj\Debug\BT2.pdb
