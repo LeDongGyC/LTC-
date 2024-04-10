@@ -1,0 +1,7 @@
+E:\UTE\HocKy6\LTC#\LTC-\Test\Test\bin\Debug\Test.exe.config
+E:\UTE\HocKy6\LTC#\LTC-\Test\Test\bin\Debug\Test.exe
+E:\UTE\HocKy6\LTC#\LTC-\Test\Test\bin\Debug\Test.pdb
+E:\UTE\HocKy6\LTC#\LTC-\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+E:\UTE\HocKy6\LTC#\LTC-\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\UTE\HocKy6\LTC#\LTC-\Test\Test\obj\Debug\Test.exe
+E:\UTE\HocKy6\LTC#\LTC-\Test\Test\obj\Debug\Test.pdb

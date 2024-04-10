@@ -1,0 +1,7 @@
+E:\UTE\HocKy6\LTC#\LTC-\BT5\BT5\bin\Debug\BT5.exe.config
+E:\UTE\HocKy6\LTC#\LTC-\BT5\BT5\bin\Debug\BT5.exe
+E:\UTE\HocKy6\LTC#\LTC-\BT5\BT5\bin\Debug\BT5.pdb
+E:\UTE\HocKy6\LTC#\LTC-\BT5\BT5\obj\Debug\BT5.csproj.AssemblyReference.cache
+E:\UTE\HocKy6\LTC#\LTC-\BT5\BT5\obj\Debug\BT5.csproj.CoreCompileInputs.cache
+E:\UTE\HocKy6\LTC#\LTC-\BT5\BT5\obj\Debug\BT5.exe
+E:\UTE\HocKy6\LTC#\LTC-\BT5\BT5\obj\Debug\BT5.pdb

@@ -1,7 +1,0 @@
-E:\UTE\HocKy6\LTC#\BT1\BT1\bin\Debug\BT1.exe.config
-E:\UTE\HocKy6\LTC#\BT1\BT1\bin\Debug\BT1.exe
-E:\UTE\HocKy6\LTC#\BT1\BT1\bin\Debug\BT1.pdb
-E:\UTE\HocKy6\LTC#\BT1\BT1\obj\Debug\BT1.csproj.AssemblyReference.cache
-E:\UTE\HocKy6\LTC#\BT1\BT1\obj\Debug\BT1.csproj.CoreCompileInputs.cache
-E:\UTE\HocKy6\LTC#\BT1\BT1\obj\Debug\BT1.exe
-E:\UTE\HocKy6\LTC#\BT1\BT1\obj\Debug\BT1.pdb
