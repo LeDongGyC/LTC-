@@ -1,0 +1,12 @@
+E:\UTE\HocKy6\LTC#\LTC-\EntityF\EntityF\bin\Debug\EntityF.exe.config
+E:\UTE\HocKy6\LTC#\LTC-\EntityF\EntityF\bin\Debug\EntityF.exe
+E:\UTE\HocKy6\LTC#\LTC-\EntityF\EntityF\bin\Debug\EntityF.pdb
+E:\UTE\HocKy6\LTC#\LTC-\EntityF\EntityF\bin\Debug\EntityFramework.dll
+E:\UTE\HocKy6\LTC#\LTC-\EntityF\EntityF\bin\Debug\EntityFramework.SqlServer.dll
+E:\UTE\HocKy6\LTC#\LTC-\EntityF\EntityF\bin\Debug\EntityFramework.xml
+E:\UTE\HocKy6\LTC#\LTC-\EntityF\EntityF\bin\Debug\EntityFramework.SqlServer.xml
+E:\UTE\HocKy6\LTC#\LTC-\EntityF\EntityF\obj\Debug\EntityF.csproj.AssemblyReference.cache
+E:\UTE\HocKy6\LTC#\LTC-\EntityF\EntityF\obj\Debug\EntityF.csproj.CoreCompileInputs.cache
+E:\UTE\HocKy6\LTC#\LTC-\EntityF\EntityF\obj\Debug\EntityF.csproj.CopyComplete
+E:\UTE\HocKy6\LTC#\LTC-\EntityF\EntityF\obj\Debug\EntityF.exe
+E:\UTE\HocKy6\LTC#\LTC-\EntityF\EntityF\obj\Debug\EntityF.pdb
